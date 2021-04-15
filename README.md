@@ -45,4 +45,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Simply execute the cells in `training.ipynb` to get started with training the agent or simply execute `demonstration.ipynb` for a demonstration of the trained agent.
+Simply execute the cells in `Continuous_Control.ipynb` to get started with training and demonstration of the trained agent.
