@@ -10,8 +10,8 @@ This algorithm is quite similar to DQN, but also manages to solve tasks with con
 DDPG utilizes four neural networks: a local actor, a target actor, a local critic and a target critic
 Each training step the experience (state, action, reward, next state) the 20 agents gained was stored.
 Then every second training step the agent learned from a random sample from the stored experience. The actor tries to estimate the
-optimal policy by using the estimated state-action values from the critic while critic tries to estimate the optimal q-value function
-and learns by using a normal q-learning approach. Using this approach one gains the benefits of value based and policy based
+optimal policy by using the estimated state-action values from the critic while critic tries to estimate the optimal Q-value function
+and learns by using a normal Q-learning approach. Using this approach one gains the benefits of value based and policy based
 methods at the same time.
 
 ### Hyperparameters
