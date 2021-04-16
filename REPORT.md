@@ -44,13 +44,16 @@ The critic model:
 ## Results
 The agent was able to solve the environment after 164 episodes achieving an average score of 30.08 over the last 100 episodes
 of the training.
+<br>
 
-![Training Logs](/assets/training_log.jpg)
+<img src="/assets/training_log.jpg" width="75%" align="top-left" alt="" title="Training Logs" />
+<br>
 
 The average scores of the 20 agents during the training process:
-![Scores over last 100 episodes](/assets/Scores_over_last_100_episodes.jpg)
+<img src="/assets/Scores_over_last_100_episodes.jpg" width="75%" align="top-left" alt="" title="Scores over last 100 episodes" />
+<br>
 
-![Scores over all 164 episodes](/assets/Scores_over_all_164_episodes.jpg)
+<img src="/assets/Scores_over_all_164_episodes.jpg" width="75%" align="top-left" alt="" title="Scores over all 164 episodes" />
 
 ## Possible Future Improvements
 The algorithm could be improved in many ways, such as:
