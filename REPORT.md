@@ -46,14 +46,14 @@ The agent was able to solve the environment after 164 episodes achieving an aver
 of the training.
 <br>
 
-<img src="/assets/training_log.jpg" width="50%" align="top-left" alt="" title="Training Logs" />
+<img src="/assets/training_log.jpg" width="60%" align="top-left" alt="" title="Training Logs" />
 <br>
 
-The average scores of the 20 agents during the training process:
-<img src="/assets/Scores_over_last_100_episodes.jpg" width="35%" align="top-left" alt="" title="Scores over last 100 episodes" />
+The average scores of the 20 agents during the training process: <br>
+<img src="/assets/Scores_over_last_100_episodes.jpg" width="40%" align="top-left" alt="" title="Scores over last 100 episodes" />
 <br>
 
-<img src="/assets/Scores_over_all_164_episodes.jpg" width="35%" align="top-left" alt="" title="Scores over all 164 episodes" />
+<img src="/assets/Scores_over_all_164_episodes.jpg" width="40%" align="top-left" alt="" title="Scores over all 164 episodes" />
 
 ## Possible Future Improvements
 The algorithm could be improved in many ways, such as:
